@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Pabitra Banerjee Portfolio",
     type: "website",
-    url: "https://pabitrabanerjee.me/",
+    url: "https://pabitrabanerjee.netlify.app",
   },
 };
 
@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1G4Pon4W8yG7hEvqRv1q3ZCjBc83Z_6pR/view?usp=sharing",
-  portfolio_repository: "https://github.com/PB2204/PB2204.github.io",
+  portfolio_repository: "https://github.com/PB2204/Professional-Portfolio",
   githubProfile: "https://github.com/PB2204",
 };
 
